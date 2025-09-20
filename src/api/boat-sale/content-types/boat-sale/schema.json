@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boat_sales",
+  "info": {
+    "singularName": "boat-sale",
+    "pluralName": "boat-sales",
+    "displayName": "Boat Sales"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
